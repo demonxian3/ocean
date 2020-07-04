@@ -210,9 +210,9 @@ run
 
 ## 相关链接
 
-https://www.sec-wiki.com/
-https://github.com/SecWiki/windows-kernel-exploits
-https://github.com/SecWiki/linux-kernel-exploits
+- https://www.sec-wiki.com/
+- https://github.com/SecWiki/windows-kernel-exploits
+- https://github.com/SecWiki/linux-kernel-exploits
 
 
 
